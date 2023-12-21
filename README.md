@@ -4,7 +4,7 @@ https://tomasitsmark.github.io/Kavezo/
 oldalak: nyitó lap (index.html)
          kávé lap  (coffee.html)
          deszertek (dessert.html)
-💅🏿💅🏿
+💅🏿💅🏿💅🏿💅🏿
 <br>
 Példa kávézóra: https://www.cseszenyi.hu/
 <br>
