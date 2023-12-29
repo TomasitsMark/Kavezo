@@ -1,7 +1,7 @@
 body {
     background-image: url(img/hatter.webp);
     background-position: center;
-    background-repeat: repeat-x;
+    background-repeat: repeat-y;
 } 
 
 .fej {
@@ -86,8 +86,56 @@ span:hover {
     color: darkturquoise;
 }
 
-.kep1 {
+.kep {
     width: 340px;
+}
+
+.itallap {
+    width: 30%;
+    margin: 40px;
+    float: right;
+    background-color: cornsilk;
+    border: 4px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.desszertek {
+    width: 30%;
+    margin-top: 40px;
+    margin-bottom: 40px;
+    float: right;
+    background-color: cornsilk;
+    border: 4px solid black;
+    border-radius: 10px;
+    text-align: center;
+}
+
+.kavee  {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.desszert {
+    width: 300px;
+    height: auto;
+    border-radius: 10px;
+}
+
+a {
+    color: chocolate;
+} 
+
+a:hover {
+    text-decoration: none;
+    color: darkgray;
+}
+
+.ures {
+    width: 20%;
+    margin: 40px;
+    height: 250px;
 }
 
 .info {
@@ -104,9 +152,9 @@ span:hover {
 
 .nyitvatartas {
     background-color: whitesmoke;
-    width: 45%;
+    width: 48%;
     text-align: center;
-    
+    border-radius: 10px;
 }
 
 table {
@@ -116,34 +164,47 @@ table {
     margin: auto;
 }
 
-td {
+.td {
     border: 3px solid black;
 }
 
 .elerhetoseg {
     background-color: black;
     color: whitesmoke;
-    width: 45%;
+    width: 48%;
     padding: 15px;
+    border-radius: 10px;
     float: right;
+    line-height: 35px;
+    margin-top: 20px;
+}
+
+.galeria {
+    width: 75%;
+    float: right;
+    background-color: cornsilk;
+    padding: 15px;
+    border: 4px solid black;
     border-radius: 10px;
 }
 
-.itallap {
-    width: 30%;
+img {
+    width: 200px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.no1 {
+    float: right;
     margin: 40px;
-    float: right;
-    background-color: cornsilk;
-    border: 4px solid black;
-    border-radius: 10px;
+    margin-right: 150px;
+    margin-top: 100px;
+    opacity: 70%;
 }
 
-.desszertek {
-    width: 30%;
-    margin-top: 40px;
-    margin-bottom: 40px;
-    float: right;
-    background-color: cornsilk;
-    border: 4px solid black;
-    border-radius: 10px;
+.no-1 {
+    margin: 40px;
+    margin-left: 65px;
+    margin-top: 150px;
+    opacity: 70%;
 }
