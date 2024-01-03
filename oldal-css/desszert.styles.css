@@ -3,3 +3,92 @@ body {
     background-position: center;
     background-repeat: repeat-y;
 } 
+
+
+.kep {
+    float: right;
+    border-radius: 10px;
+    width: 30%;
+    margin-right: 40px;
+}
+
+img {
+    width: 500px;
+    height: auto;
+    border-radius: 10px;
+}
+
+.alap {
+    background-color: cornsilk;
+    width: 60%;
+    margin-top: 40px;
+    margin-left: 40px;
+    padding: 15px;
+    height: auto;
+    border: 4px solid black;
+    border-radius: 10px;
+    margin-bottom: 40px;
+}
+
+li {
+    list-style-type: none;
+}
+
+.ar {
+    float: right;
+    font-size: 1.7rem;
+    margin-right: 200px;
+}
+
+.nev {
+    font-size: 1.7rem;
+}
+
+.egy {
+    color: chocolate;
+}
+
+.ketto {
+    color: chartreuse;
+}
+
+.harom {
+    color: crimson;
+}
+
+.negy {
+    color: darkturquoise;
+}
+
+.ot {
+    color: hotpink;
+}
+
+.hat {
+    color: darkviolet;
+}
+
+.het {
+    color: darkolivegreen;
+}
+
+.nyolc {
+    color: goldenrod;
+}
+
+.kilenc {
+    color: #000;
+}
+
+.tiz {
+    color: deeppink;
+}
+
+p {
+    text-align: center;
+    font-size: 4rem;
+    color: deeppink;
+    text-shadow: 2px 2px 0px white;
+    font-style: italic;
+    background-color: blue;
+}
